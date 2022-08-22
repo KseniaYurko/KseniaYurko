@@ -4,3 +4,4 @@
   
 Телефон: 8-(916)-257-38-68  
 Telegram: @KseniaYurko  
+e-mail: ksyu257@gmail.com
