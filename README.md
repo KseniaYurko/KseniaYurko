@@ -1,6 +1,8 @@
 ### Hi there, I'm Ksenia 👋
 
-Я изучаю JavaScript, CSS, HTML, Python  
+Я изучаю JavaScript, CSS, HTML, Python
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniayurko)](https://github.com/anuraghazra/github-readme-stats)
   
 Телефон: 8-(916)-257-38-68  
 Telegram: @KseniaYurko  
