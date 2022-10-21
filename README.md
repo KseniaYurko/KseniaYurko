@@ -1,10 +1,8 @@
-### Hi there, I'm Ksenia 👋
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
-Я изучаю JavaScript, CSS, HTML, Python
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniayurko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kseniayurko)](https://github.com/anuraghazra/github-readme-stats)
-
-Телефон: 8-(916)-257-38-68  
-Telegram: @KseniaYurko  
-e-mail: ksyu257@gmail.com
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
