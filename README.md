@@ -1,4 +1,4 @@
-Hi!👋  
+Hi👋, I'm Ksenia Yurko, student of the MIPT!)    
 I'm learning `C`, `JavaScript`, `CSS`, `HTML` and a little more `Python` :)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kseniayurko)](https://github.com/anuraghazra/github-readme-stats) -->
