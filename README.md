@@ -7,4 +7,4 @@ I'm learning `C/C++`, `JavaScript`, `CSS`, `HTML` and a little more `Python` :)
 
 Телефон: 8-(916)-257-38-68  
 Telegram: @KseniaYurko  
-e-mail: ksyu257@gmail.com
+e-mail: iurko.kk@phystech.edu
